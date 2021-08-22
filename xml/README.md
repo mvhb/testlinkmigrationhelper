@@ -1,0 +1,1 @@
+The XML exported from teslink must be stored on this folder
