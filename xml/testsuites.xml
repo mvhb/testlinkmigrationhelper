@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Home Icon" >
+<node_order><![CDATA[0]]></node_order>
+<details><![CDATA[]]> 
+</details>
+<testcase internalid="182353" name="Verify Power User is redirected to correct page when click in Home icon">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[1841]]></externalid>
+	<version><![CDATA[4]]></version>
+	<summary><![CDATA[<p><strong>Given </strong>I am a Power User</p>
+<p><strong>And </strong>I access the Scout Tool</p>
+<p><strong>And</strong> I navigate to another page different from my Home Page</p>
+<p><strong>When </strong>I click on 'Dell Scout Cloud Tool' logo icon</p>
+<p><strong>Then </strong>I am redirected to REVIEWS -&gt; REVIEWS -&gt; Active reviews page</p>]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="182357" name="Verify Auditor is redirected to correct page when click in Home icon">
+	<node_order><![CDATA[102]]></node_order>
+	<externalid><![CDATA[1843]]></externalid>
+	<version><![CDATA[3]]></version>
+	<summary><![CDATA[<div><strong>Given </strong>I am an Auditor</div>
+<div><strong>And </strong>I access the Scout Tool</div>
+<div><strong>And </strong>I navigate to another page different from my Home Page</div>
+<div><strong>When </strong>I click on 'Dell Scout Cloud Tool' logo icon</div>
+<div><strong>Then </strong>I am redirected to REVIEWS -&gt; REVIEWS -&gt; Active reviews page</div>]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="182359" name="Verify Profile Owner is redirected to correct page when click in Home icon">
+	<node_order><![CDATA[103]]></node_order>
+	<externalid><![CDATA[1844]]></externalid>
+	<version><![CDATA[3]]></version>
+	<summary><![CDATA[<div><strong>Given </strong>I am a Profile Owner</div>
+<div><strong>And </strong>I access the Scout Tool</div>
+<div><strong>And </strong>I navigate to another page different from my Home Page (Quarter Review Tasks Page)</div>
+<div><strong>When </strong>I click on 'Dell Scout Cloud Tool' logo icon</div>
+<div><strong>Then </strong>I am redirected to Review Tasks page (Quarter Review Tasks Page)</div>]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="182361" name="Verify Manager is redirected to correct page when click in Home icon">
+	<node_order><![CDATA[104]]></node_order>
+	<externalid><![CDATA[1845]]></externalid>
+	<version><![CDATA[3]]></version>
+	<summary><![CDATA[<p><strong>Given </strong>I am a Manager</p>
+<div><strong>And </strong>I access the Scout Tool</div>
+<div><strong>And </strong>I navigate to another page different from my Home Page (Movement Review Tasks)</div>
+<div><strong>When </strong>I click on 'Dell Scout Cloud Tool' logo icon</div>
+<div><strong>Then </strong>I am redirected to Movement Review Tasks page</div>]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="182363" name="Verify Matrix Owner is redirected to correct page when click in Home icon">
+	<node_order><![CDATA[105]]></node_order>
+	<externalid><![CDATA[1846]]></externalid>
+	<version><![CDATA[3]]></version>
+	<summary><![CDATA[<div><strong>Given </strong>I am a Matrix Owner</div>
+<div><strong>And </strong>I access the Scout Tool</div>
+<div><strong>And</strong> I navigate to another page different from my Home Page</div>
+<div><strong>When </strong>I click on 'Dell Scout Cloud Tool' logo icon</div>
+<div><strong>Then </strong>I am redirected to Review Tasks page</div>]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="182365" name="Verify Business Owner is redirected to correct page when click in Home icon">
+	<node_order><![CDATA[106]]></node_order>
+	<externalid><![CDATA[1847]]></externalid>
+	<version><![CDATA[3]]></version>
+	<summary><![CDATA[<div><strong>Given </strong>I am a Business Owner</div>
+<div><strong>And </strong>I access the Scout Tool</div>
+<div><strong>And </strong>I navigate to another page different from my Home Page</div>
+<div><strong>When </strong>I click on 'Dell Scout Cloud Tool' logo icon</div>
+<div><strong>Then </strong>I am redirected to Review Tasks page</div>]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="183567" name="Verify Employee is redirected to correct page when click in Home icon">
+	<node_order><![CDATA[107]]></node_order>
+	<externalid><![CDATA[2026]]></externalid>
+	<version><![CDATA[3]]></version>
+	<summary><![CDATA[<div>Given I am an Employee</div>
+<div>And I access the Scout Tool</div>
+<div>And I navigate to another page different from my Home Page (Movement Review Tasks)</div>
+<div>When I click on 'Dell Scout Cloud Tool' logo icon</div>
+<div>Then I am redirected to Movement Review Tasks page</div>]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+</testsuite>
