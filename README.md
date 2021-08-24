@@ -1,9 +1,4 @@
-# TestLink migration to Excel (xlsx) HELPER
-
-<p align="center">
-    <h1 align="center">Main goal, Installation and Run</h1>
-</p>
-<p align="center">
+# TestLink migration to Excel (xlsx) - helper
 
 ## Main goal
 ```
